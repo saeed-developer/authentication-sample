@@ -2,3 +2,7 @@
 	path = pvchannel
 	url = https://github.com/saeed-developer/pvchannel.git
 	branch = auth
+[submodule "mega"]
+	path = mega
+	url = https://github.com/saeed-developer/mega.git
+	branch = auth
